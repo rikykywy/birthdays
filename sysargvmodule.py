@@ -1,11 +1,14 @@
 import sys
 #importing the sys module, useful to get the user inputs#
 
-if len(sys.argv) > 1:
-    to_print = sys.argv[1]
+if len(sys.argv) == 3:
+    user_input = sys.argv[1] + " " + sys.argv[2]
+
 else:
-    print("Give me an argument to print")
+    print("Not a valid name")
     exit()
+
+return_birthday(user_input)
 #This condition sets the minimum lenght of the input to be stored as one character#
 #Otherwise it will return a message that reminds to write enough data as input"
 print("The name of this program is {}".format(sys.argv[0]))
