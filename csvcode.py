@@ -7,7 +7,7 @@ birthdays = {
     'Donald Trump': '06/14/1946',
     'Rowan Atkinson': '01/6/1955'}
 
-with open('datasofbirth.csv', 'w') as f:
+with open('databirth.txt', 'w') as f:
     for key in birthdays:
         csv_columns= []
         x = key
