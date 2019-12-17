@@ -6,11 +6,14 @@ dictionary"""
 #imort .csv file with data list#
 import csv
 
-reader = csv.reader (open('databirth2.csv', 'r'))
+reader = csv.reader (open('mypackage/databirth2.csv','r'))
 d = {}
 for row in reader:
-    k,v = row  
-    d[k]= v
+    x,y = row  
+    d[x]= y
+
+
+
 
 
 """The first function prints all the available names in the dictionary before a 
@@ -19,8 +22,10 @@ wellcoming phrase"""
 
 def print_birthdays():
     print('Welcome to the dictionary.We know the birthdays of these people:')
-     for e in d:
-        print(e)
+    for e in d:
+    	print(e)
+
+
 
 """The second funtion iterats trough the dictionary and prints, if the name is 
 in birthdays, the name requested along with the date of birth of that person. 
@@ -29,9 +34,11 @@ not in the dictionary"""
 
 
 def return_birthday(name):
-    if name in d:
-        return d[name]
-    else:
-        return False 
+    for e in d:
+        if name == e:
+            print('ddcdc')
+        else:
+            print('nononono')            
+    
 
      
