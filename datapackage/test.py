@@ -19,4 +19,4 @@ def csv_reader(path):
         d[k] = v
 
 
-csv_reader('birth_package/birth.csv')
+csv_reader('datapackage/birthlist.csv')
