@@ -1,6 +1,5 @@
 import unittest
-from datapackage.test import csv_reader
-from datapackage.test import type_f
+from datapackage import test
 import sys
 import os
 
