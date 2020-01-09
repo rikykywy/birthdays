@@ -49,7 +49,7 @@ def verbosity_levels(name):
             print ('Sorry, {} is not present in our list, '.format(x))
             birthdays.print_birthdays()
                         
-db_corr = 'scripts/userlist.db
+db_corr = 'scripts/userlist.db'
 
 
 if __name__ == "__main__":
