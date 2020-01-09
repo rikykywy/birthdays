@@ -19,7 +19,7 @@ Ada Lovelace
 Benjamin Franklin
 ```
 
-## How to populat
+## Username and Password
 If you want to only access the database, because you are already registered, you can run the ```main.py``` only. Instead, if you are registering for the first time you have to use the ```dbmanager.py``` in which you can find some useful instructions.
 
 ## Add a new user:
@@ -65,22 +65,22 @@ Albert Einstein
 Donald Trump
 ```
 ## Verbosity:
-There are three different outup options, according by the number of -v you put at the end of the input.
+There are three different outut options, according by the number of -v you put at the end of the input.
 
 1) If you omit -v, it will return only the date of the birthday. 03/14/1879
 2) One -v: returns only name and date of birth. Albert Einstein : 03/14/1879
 3) -vv: returns a sentence. Albert Einstein was born the 03/14/1879
 
 ## Test:
-To test the application there are three functions, in the folder named ```tests/test_csv/```. In order to repeat the tests: ```python3 -m unittest -v -b tests/test_csv.py```. This output will follow: 
+To test the application there are three functions, in the folder named ```tests/test_main/```. In order to repeat the tests: ```python3 -m unittest -v -b tests/test_main.py```. This output will follow: 
 
 ```
-$ python3 -m unittest -v -b tests/test_csv.py
-test_empty_datafile (tests.test_csv.TestMain)
+$ python3 -m unittest -v -b tests/test_main.py
+test_empty_datafile (tests.test_main.TestMain)
 Check the presence of data inside the csv file. ... ok
-test_no_datafile (tests.test_csv.TestMain)
+test_no_datafile (tests.test_main.TestMain)
 Check if there is a csv file. ... ok
-test_valid_extension (tests.test_csv.TestMain)
+test_valid_extension (tests.test_main.TestMain)
 Check the extension of the file. ... ok
 
 ----------------------------------------------------------------------
