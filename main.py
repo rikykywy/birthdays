@@ -2,6 +2,7 @@
 
 import sys
 import argparse
+import sqlite3
 from datapackage import birthdays
 from scripts import dbmanager
 
@@ -22,6 +23,12 @@ def parse_argument():
              'format: "Name Surname"')
     parser.add_argument('-v', '--verbosity',default=0, action='count', 
                         help='Choose the level of verbosity')
+    
+    #check username and password from dbmanager.py
+    parser.add_argument('-p', help="check password",
+                        required=True)
+    parser.add_argument('-c', help="check for a usernamename and password"
+                        "(requires -p)", required=True
 
     args = parser.parse_args()
     return args
@@ -41,6 +48,8 @@ def verbosity_levels(name):
         else:
             print ('Sorry, {} is not present in our list, '.format(x))
             birthdays.print_birthdays()
+                        
+db_corr = 'scripts/userlist.db
 
 
 if __name__ == "__main__":
