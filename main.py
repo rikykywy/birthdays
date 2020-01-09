@@ -28,7 +28,7 @@ def parse_argument():
     parser.add_argument('-p', help="check password",
                         required=True)
     parser.add_argument('-c', help="check for a usernamename and password"
-                        "(requires -p)", required=True
+                        "(requires -p)", required=True)
 
     args = parser.parse_args()
     return args
