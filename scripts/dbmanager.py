@@ -84,7 +84,7 @@ def check_for_username(username, password, db):
         print ("Password is invalid")
         return False
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     check_or_create(db_check)
     parse_args()
     args = parse_args()
