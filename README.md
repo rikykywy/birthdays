@@ -38,7 +38,7 @@ All the python modules and codes have been tested into the text regulation of PE
 Pasti Riccardo;
 Pasqualini Marco;
 Gatti Giovanni;
-Makosa Sara;
+Makosa Sara.
 
 ## License:
 GNU GENERAL PUBLIC LICENSE
