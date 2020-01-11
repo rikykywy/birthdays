@@ -1,6 +1,6 @@
 # Find famous people birthdays!
-The repository we choose is "birthdays" wich contains the birthdays of several famous people.
-By running main.py file by your terminal it will retur the dates of birth of the person you searched for, given a valid input and if it is present in our database databirth.csv contained in the datapackage folder.
+The repository we chose is the "birthdays" one which contains the birthdays of several famous people.
+By running main.py file by your terminal, it will return the dates of birth of the person you searched for, given a valid input and if it is present in our database databirth.csv contained in the datapackage folder.
 
 The database contains this information:
 
