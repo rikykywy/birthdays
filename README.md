@@ -28,6 +28,8 @@ There are three different outup options, according by the number of -v you put a
 2) One -v: returns only name and date of birth. Albert Einstein : 03/14/1879
 3) -vv: returns a sentence. Albert Einstein was born the 03/14/1879
 
+If there is any -v, you will get only the date of the birthday. 03/14/1879
+
 
 ## PEP-8:
 All the python modules and codes have been tested into the text regulation of PEP-8.
@@ -40,6 +42,5 @@ Makosa Sara;
 
 ## License:
 GNU GENERAL PUBLIC LICENSE
-Link: GNU GENERAL PUBLIC LICENSE
 
-Composing the READ TAILS team!
+Composing by the READ TAILS team!
