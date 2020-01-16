@@ -1,0 +1,252 @@
+[33mcommit 402287d5e965af837b6c75151cdb2a7cc23b91ad[m
+Author: pasqua95 <marcopasqua95@gmail.com>
+Date:   Tue Dec 17 15:50:49 2019 +0100
+
+    updated verbosity
+
+[33mcommit b7101949d208effd4d6cc8a6d65e388008386644[m
+Author: pasqua95 <marcopasqua95@gmail.com>
+Date:   Tue Dec 17 14:59:50 2019 +0100
+
+    correct birthdays.py
+
+[33mcommit 77c36d9c6fb9a7544a5d594b51bbcfc5045eecbb[m
+Author: pasqua95 <marcopasqua95@gmail.com>
+Date:   Tue Dec 17 14:58:38 2019 +0100
+
+    correct main.py
+
+[33mcommit 16e53a53cea25eeb7789a0d012cd3a8eb450456d[m
+Author: pasqua95 <57723071+pasqua95@users.noreply.github.com>
+Date:   Wed Dec 11 14:46:21 2019 +0100
+
+    Updated birthdays with CSV reader code
+
+[33mcommit 8742a8127ba38b0ba2d73b4644477c0398e95cc1[m
+Author: rikykywy <rikykywy@gmail.com>
+Date:   Wed Dec 11 08:40:50 2019 -0500
+
+    First pep8 to birthdays
+
+[33mcommit 5e8fd8701c4ae07a5b7fed31ec3eaf7f7af510de[m
+Author: saramakosa <57715028+saramakosa@users.noreply.github.com>
+Date:   Wed Dec 11 14:28:26 2019 +0100
+
+    Create dbmanager.py
+
+[33mcommit 8cc4b65a4db42c13fa4c8bd0034743dde788d5aa[m
+Author: pasqua95 <57723071+pasqua95@users.noreply.github.com>
+Date:   Wed Dec 11 14:27:30 2019 +0100
+
+    Update readme.md
+
+[33mcommit faf0a1aff7ef7542beec227799022ceb8c6f0de6[m
+Author: saramakosa <57715028+saramakosa@users.noreply.github.com>
+Date:   Wed Dec 11 14:22:52 2019 +0100
+
+    Rename Folder/sysargvmodule.py to mypackage/sysargvmodule.py
+
+[33mcommit 1c57dc68be8cc8122d190c638f90f0f709f20014[m
+Author: saramakosa <57715028+saramakosa@users.noreply.github.com>
+Date:   Wed Dec 11 14:22:29 2019 +0100
+
+    Rename Folder/databirth2.csv to mypackage/databirth2.csv
+
+[33mcommit 1d25f7248b212b4bda521bc7a35dce106b7984c2[m
+Author: saramakosa <57715028+saramakosa@users.noreply.github.com>
+Date:   Wed Dec 11 14:21:59 2019 +0100
+
+    Rename Folder/csvcode.py to mypackage/csvcode.py
+
+[33mcommit 3282228e42906d8b747821ba37695241230c9135[m
+Author: saramakosa <57715028+saramakosa@users.noreply.github.com>
+Date:   Wed Dec 11 14:21:34 2019 +0100
+
+    Rename Folder/LICENSE to mypackage/LICENSE
+
+[33mcommit 8960051f1407ab7681b6201a2bcb0132d3331138[m
+Author: saramakosa <57715028+saramakosa@users.noreply.github.com>
+Date:   Wed Dec 11 14:20:40 2019 +0100
+
+    Delete __init__.py
+
+[33mcommit aa10b4fd780cd3d1ab1a36681c0e352cc0222045[m
+Author: pasqua95 <57723071+pasqua95@users.noreply.github.com>
+Date:   Wed Dec 11 14:19:38 2019 +0100
+
+    Updated for PEP8 convention
+
+[33mcommit e348b3db8fd9ff7a0b8fe7dc5a575fd38394042a[m
+Author: saramakosa <57715028+saramakosa@users.noreply.github.com>
+Date:   Wed Dec 11 14:16:32 2019 +0100
+
+    Rename Folder/README.md to README.md
+
+[33mcommit c959d6b67adddb064ee571b8a37d0a525ca7fee2[m
+Author: saramakosa <57715028+saramakosa@users.noreply.github.com>
+Date:   Wed Dec 11 14:15:47 2019 +0100
+
+    Rename sysargvmodule.py to Folder/sysargvmodule.py
+
+[33mcommit ea9100ff422b15e32a681158cba4c9d597a267d6[m
+Author: saramakosa <57715028+saramakosa@users.noreply.github.com>
+Date:   Wed Dec 11 14:15:26 2019 +0100
+
+    Rename databirth2.csv to Folder/databirth2.csv
+
+[33mcommit 507c3d09ac07cc6fd4cad3ce03f0ed8435cd6c0d[m
+Author: saramakosa <57715028+saramakosa@users.noreply.github.com>
+Date:   Wed Dec 11 14:14:58 2019 +0100
+
+    Rename Folder1/README.md to Folder/README.md
+
+[33mcommit ab15619d36dfaf9cad03099f151709b0b7de8106[m
+Author: saramakosa <57715028+saramakosa@users.noreply.github.com>
+Date:   Wed Dec 11 14:14:33 2019 +0100
+
+    Rename Folder1/LICENSE to Folder/LICENSE
+
+[33mcommit f485a9140dc9c2007b4c5e357c98f68e0a84580a[m
+Author: saramakosa <57715028+saramakosa@users.noreply.github.com>
+Date:   Wed Dec 11 14:14:11 2019 +0100
+
+    Rename csvcode.py to Folder/csvcode.py
+
+[33mcommit d9d1f3538479686a449bf42196aaa43d7863b4b2[m
+Author: saramakosa <57715028+saramakosa@users.noreply.github.com>
+Date:   Wed Dec 11 14:13:28 2019 +0100
+
+    Rename README.md to Folder1/README.md
+
+[33mcommit 331f41877f1381b80573400b67e22c54501f7e8f[m
+Author: saramakosa <57715028+saramakosa@users.noreply.github.com>
+Date:   Wed Dec 11 14:11:26 2019 +0100
+
+    Rename LICENSE to Folder1/LICENSE
+
+[33mcommit 7dbc57a627c2945fb6fb6b67259ab7b0eebb99e0[m
+Author: pasqua95 <57723071+pasqua95@users.noreply.github.com>
+Date:   Wed Dec 11 14:04:00 2019 +0100
+
+    Deleted birthdays list. Added to cdv file.
+
+[33mcommit 6c1a950798275ce47355abf73fa4267205d4c20e[m
+Author: pasqua95 <57723071+pasqua95@users.noreply.github.com>
+Date:   Wed Dec 11 14:00:42 2019 +0100
+
+    solve HEAD conflict
+
+[33mcommit dc9688f0976c9cf12050cb29afd9ba1ea6281680[m
+Author: pasqua95 <57723071+pasqua95@users.noreply.github.com>
+Date:   Wed Dec 11 13:58:32 2019 +0100
+
+    Deleted test file .txt
+
+[33mcommit c806bd705f64da76ae1250eb6e315fd386aebe51[m
+Merge: 6a2b636 5d1ed62
+Author: rikykywy <rikykywy@gmail.com>
+Date:   Wed Dec 11 07:51:51 2019 -0500
+
+    Merge branch 'play' of https://github.com/rikykywy/birthdays into play
+
+[33mcommit 6a2b6366935db4446e70196038abcd75374682c2[m
+Merge: 5c358d8 478b6b3
+Author: rikykywy <rikykywy@gmail.com>
+Date:   Wed Dec 11 07:51:23 2019 -0500
+
+    Merge branch 'play' of https://github.com/rikykywy/birthdays into play
+
+[33mcommit 5d1ed62e62c0675b80f5f1fe5b0a278bbdec3554[m
+Merge: c39b629 478b6b3
+Author: pasqua95 <marcopasqua95@gmail.com>
+Date:   Wed Dec 11 13:51:18 2019 +0100
+
+    new
+
+[33mcommit c39b629dbb21704b6e20e1094cd895a64b5e4f24[m
+Merge: 3c66c2b de0ea9e
+Author: pasqua95 <marcopasqua95@gmail.com>
+Date:   Wed Dec 11 13:47:32 2019 +0100
+
+    new csv file
+
+[33mcommit 5c358d88005affc38544e2e067288620d6f3eaf3[m
+Author: rikykywy <rikykywy@gmail.com>
+Date:   Wed Dec 11 07:44:57 2019 -0500
+
+    CSV is ready, now we can close the issue
+
+[33mcommit 478b6b30f04b73c2ba0edec60feff0d5a15d78ab[m
+Author: saramakosa <57715028+saramakosa@users.noreply.github.com>
+Date:   Wed Dec 11 13:43:30 2019 +0100
+
+    Delete databirth1.csv
+
+[33mcommit 8fbf46aafc63d38332ec6c82d73b9c9fcb5bd1a0[m
+Author: saramakosa <57715028+saramakosa@users.noreply.github.com>
+Date:   Wed Dec 11 13:38:30 2019 +0100
+
+    Delete datasofbirth.csv
+
+[33mcommit 3c66c2b335bf3be1ce38159116ea17514020b87a[m
+Author: pasqua95 <marcopasqua95@gmail.com>
+Date:   Wed Dec 11 13:36:49 2019 +0100
+
+    new csv
+
+[33mcommit de0ea9e12c3a9049217f4f19cc60f4c616f290e4[m
+Author: Giogatti <giovanni.gatti@student.h-farm.com>
+Date:   Wed Dec 11 07:32:45 2019 -0500
+
+    it is working what i said before
+
+[33mcommit 411aacc190f642b5268092b670dd6132e58af1fc[m
+Merge: 8fd3b56 741c985
+Author: Giogatti <giovanni.gatti@student.h-farm.com>
+Date:   Wed Dec 11 07:27:27 2019 -0500
+
+    Merge branch 'play' of https://github.com/rikykywy/birthdays into play
+
+[33mcommit 0eae805be361531089ac46c4fca1cfdbb9ce379f[m
+Author: pasqua95 <marcopasqua95@gmail.com>
+Date:   Wed Dec 11 13:23:24 2019 +0100
+
+    adjusting PEP8 code convention
+
+[33mcommit 8fd3b5653f86600c9b3e49691c64004905005154[m
+Author: Giogatti <giovanni.gatti@student.h-farm.com>
+Date:   Wed Dec 11 07:02:06 2019 -0500
+
+    lets see what happens if we let the code run on a csv file
+
+[33mcommit 741c98511bd8911403c20a6c903e09b517458692[m
+Author: Giogatti <57715476+Giogatti@users.noreply.github.com>
+Date:   Wed Dec 11 13:00:28 2019 +0100
+
+    i am trying to let the code work also in a csv filee
+
+[33mcommit 9e054143f0f5f445d68a2ef3bf6a20bc637b83c0[m
+Author: Giogatti <giovanni.gatti@student.h-farm.com>
+Date:   Wed Dec 11 06:57:27 2019 -0500
+
+    let' s see if the results of the code work
+
+[33mcommit 7074dbf3bb23674b286b54b9a6bdff268bbad304[m
+Author: Giogatti <giovanni.gatti@student.h-farm.com>
+Date:   Wed Dec 11 06:54:09 2019 -0500
+
+    modified the code in order to transfer the data to the databirth.txt file
+
+[33mcommit 025643fedc3f9c372fa2282a8b025c57496577b2[m
+Author: Giogatti <57715476+Giogatti@users.noreply.github.com>
+Date:   Wed Dec 11 12:51:52 2019 +0100
+
+    creating an empty file to store the datas in csv
+    
+    i  m creating an empty file to try to store all the datas from birthdays
+
+[33mcommit 045b3cf94680166307eafe091f60ce249cae75bf[m
+Author: saramakosa <57715028+saramakosa@users.noreply.github.com>
+Date:   Wed Dec 11 12:42:14 2019 +0100
+
+    Rename csvcode.csv to 
