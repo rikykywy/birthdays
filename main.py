@@ -55,7 +55,9 @@ db_corr = 'scripts/userlist.db'
 if __name__ == "__main__":
     parse_argument()
     args = parse_argument()
-    verbosity_levels(args.n)
+    if dbmanager.check_for_username(args.c, args.p, db_corr):
+        verbosity_levels(args.n)        
+    
             
 
 
