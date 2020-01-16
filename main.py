@@ -6,9 +6,9 @@ import sqlite3
 from datapackage import birthdays
 from scripts import dbmanager
 
-"""If the user inputs one of the names that are present is inside the   datapackege names in the list 
- the systeam will display the data of birth according to the 
- verbosity level """
+"""If the user inputs one of the names that are present is inside 
+   the datapackege names in the list the systeam will display the
+   data of birth according to the verbosity level """
 
 
 
