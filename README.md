@@ -1,5 +1,4 @@
 # Find famous people birthdays!
-<<<<<<< HEAD
 The repository we chose is "birthdays" wich contains the dates of birthday of several famous people.
 By running main.py file on your terminal it will return the dates of birth of the person you searched for, given a valid input and if it is present in our database databirth.csv contained in the datapackage folder.
 To be able to run the code, you need first to insert your credentials (username and password).
@@ -42,10 +41,6 @@ User is present, password is valid
 ```
 
 ## Execute the main application
-=======
-The repository we chose is the "birthdays" one which contains the birthdays of several famous people.
-By running main.py file by your terminal,for a given valid input, it will return the dates of birth of the person you searched if it is present in our database databirth.csv contained in the datapackage folder.
->>>>>>> 051f47fa4b2bf1fdf5b90de5902540112b3858d8
 
 The database contains this information:
 
@@ -76,7 +71,6 @@ There are three different outut options, according by the number of -v you put a
 2) One -v: returns only name and date of birth. Albert Einstein : 03/14/1879
 3) -vv: returns a sentence. Albert Einstein was born the 03/14/1879
 
-<<<<<<< HEAD
 ## Test:
 To test the application there are three functions, in the folder named ```tests/test_main/```. In order to repeat the tests: ```python3 -m unittest -v -b tests/test_main.py```. This output will follow: 
 
@@ -91,28 +85,14 @@ Check the extension of the file. ... ok
 
 ----------------------------------------------------------------------
 Ran 3 tests in 0.001s
-=======
-If there is any -v, you will get only the date of the birthday. 03/14/1879
-
->>>>>>> 051f47fa4b2bf1fdf5b90de5902540112b3858d8
 
 OK
 ```
 
 ## Credits:
-<<<<<<< HEAD
 Pasti Riccardo-
 Pasqualini Marco-
 Gatti Giovanni-
 Makosa Sara.
-=======
-Pasti Riccardo;
-Pasqualini Marco;
-Gatti Giovanni;
-Makosa Sara.
 
-## License:
-GNU GENERAL PUBLIC LICENSE
->>>>>>> 051f47fa4b2bf1fdf5b90de5902540112b3858d8
-
-Composing by the READ TAILS team!
+Composing the READ TAILS team!
