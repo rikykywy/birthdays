@@ -1,6 +1,6 @@
 # Find famous people birthdays!
-The repository we choose is "birthdays" wich contains the birthdays of several famous people.
-By running main.py file by your terminal it will retur the dates of birth of the person you searched for, given a valid input and if it is present in our database databirth.csv contained in the datapackage folder.
+The repository we chose is "birthdays" wich contains the dates of birthday of several famous people.
+By running main.py file on your terminal it will return the dates of birth of the person you searched for, given a valid input and if it is present in our database databirth.csv contained in the datapackage folder.
 To be able to run the code, you need first to insert your credentials (username and password).
 
 ## How to:
@@ -23,7 +23,7 @@ Benjamin Franklin
 If you want to only access the database, because you are already registered, you can run the ```main.py``` only. Instead, if you are registering for the first time you have to use the ```dbmanager.py``` in which you can find some useful instructions.
 
 ## Add a new user:
-To add a new user into the database, these are the arguments you need to insert in ```dbmanager.py``` file:
+To add a new user into the database, these are some arguments you need to insert in ```dbmanager.py``` file:
 * -h, --help: tells you the possible arguments you can insert
 * -a: username
 * -p: password
@@ -51,7 +51,7 @@ Rowan Atkinson	01/06/1955
 Ada Lovelace	12/10/1815
 Donald Trump	06/14/1946
 
-If you type a name that is not in the database, the program returns this message:
+If you type a name that is not in the database, the program returns the following message:
 
 ```
 $ python main.py 'Alan Turing' -c username -p password
