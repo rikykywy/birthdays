@@ -13,7 +13,7 @@ class TestMain(unittest.TestCase):
 
     def test_no_datafile(self):
         """Check if there is a csv file."""
-        self.assertFalse(os.path.exists("birth_package/random_name.csv"))
+        self.assertFalse(os.path.exists("datapackage/random_name.csv"))
 
     def test_empty_datafile(self):
         """Check the presence of data inside the csv file."""
