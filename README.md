@@ -89,10 +89,6 @@ Ran 3 tests in 0.001s
 OK
 ```
 
-
-## PEP-8:
-All the python modules and codes have been tested into the text regulation of PEP-8.
-
 ## Credits:
 Pasti Riccardo-
 Pasqualini Marco-
