@@ -1,11 +1,11 @@
 # Find famous people birthdays!
-The repository we chose is "birthdays" wich contains the dates of birthday of several famous people.
-By running main.py file on your terminal it will return the dates of birth of the person you searched for, given a valid input and if it is present in our database databirth.csv contained in the datapackage folder.
-To be able to run the code, you need first to insert your credentials (username and password).
+The repository we chose is "birthdays" witch contains the dates of birthday of several famous people.
+By running main.py file on your terminal it will return the dates of birth of the person you searched for, given a valid input, if it is present in our database databirth.csv. The database is contained in the datapackage folder.
+Firstly, to be able to run the code, you need to insert your credentials (username and password).
 
 ## How to:
-In the case of incorrect credentials, the program will return that either the password or the username is invalid.
-Insert the name/s of the famous person you want to know the birthday of and your right credentials in order to get this outcome:
+In case of incorrect credentials, the program will return that either the password or the username is invalid.
+Insert the name of the famous person you want to know the birthday of and your right credentials in order to get this outcome:
 ```
 $ python3 main.py 'Albert Einstein' 'Alan Turing' -c username -p password -vv
 User is present, password is valid
@@ -20,10 +20,10 @@ Benjamin Franklin
 ```
 
 ## Username and Password
-If you want to only access the database, because you are already registered, you can run the ```main.py``` only. Instead, if you are registering for the first time you have to use the ```dbmanager.py``` in which you can find some useful instructions.
+If you want to only access the database, because you are already registered, you can run the ```main.py``` . Instead, if you are registering for the first time you have to use the ```dbmanager.py``` in which you can find some useful instructions.
 
 ## Add a new user:
-To add a new user into the database, these are some arguments you need to insert in ```dbmanager.py``` file:
+To add a new user into the database, these are some arguments you need to insert in the ```dbmanager.py``` file:
 * -h, --help: tells you the possible arguments you can insert
 * -a: username
 * -p: password
